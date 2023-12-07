@@ -1,0 +1,3 @@
+module skillbox25_1_example_of_hometask2_multystring_search
+
+go 1.21
